@@ -45,8 +45,8 @@ const localeValues: Locale = {
   Transfer: {
     titles: ['', ''],
     searchPlaceholder: 'Procurar',
-    itemUnit: 'item',
-    itemsUnit: 'items',
+    itemUnit: 'ítem',
+    itemsUnit: 'ítens',
     remove: 'Remover',
     selectCurrent: 'Selecionar página atual',
     removeCurrent: 'Remover página atual',
